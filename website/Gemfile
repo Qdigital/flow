@@ -15,4 +15,4 @@ gem 'octokit'
 # (but jekyll-assets 4.x does)
 # https://github.com/envygeeks/jekyll-assets/issues/622
 gem 'jekyll-assets', '~>3'
-gem 'sprockets', '<4'
+gem 'sprockets', '~> 4.2'
