@@ -4344,12 +4344,12 @@ prompt-choices@^4.0.5:
     terminal-paginator "^2.0.2"
     toggle-array "^1.0.1"
 
-prompt-confirm@^1.2.0:
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/prompt-confirm/-/prompt-confirm-1.2.0.tgz#ed96d0ecc3a3485c7c9d7103bf19444e7811631f"
-  integrity sha512-r7XZxI5J5/oPtUskN0ZYO+lkv/WJHMQgfd1GTKAuxnHuViQShiFHdUnj6DamL4gQExaKAX7rnIcTKoRSpVVquA==
+prompt-confirm@^2.0.0:
+  version "2.0.4"
+  resolved "https://registry.yarnpkg.com/prompt-confirm/-/prompt-confirm-2.0.4.tgz#42c06907333e876f2ae8867281e0b9521a4796ca"
+  integrity sha512-X5lzbC8/kMNHdPOqQPfMKpH4VV2f7v2OTRJoN69ZYBirSwTeQaf9ZhmzPEO9ybMA0YV2Pha5MV27u2/U4ahWfg==
   dependencies:
-    debug "^2.6.8"
+    ansi-cyan "^0.1.1"
     prompt-base "^4.0.1"
 
 prompt-question@^5.0.1:
